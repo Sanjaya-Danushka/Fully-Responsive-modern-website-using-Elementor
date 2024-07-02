@@ -1,0 +1,14 @@
+[2024-07-02 06:45:35] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress
+[2024-07-02 06:45:37] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress
+[2024-07-02 06:45:45] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress
+[2024-07-02 06:45:46] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress
+[2024-07-02 06:46:32] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress
+[2024-07-02 06:46:33] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress
+[2024-07-02 06:50:56] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress
+[2024-07-02 06:50:56] [class-ss-url-fetcher.php:251] Fetching URL: C:\xampp\htdocs\git
+[2024-07-02 06:50:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress
+[2024-07-02 06:50:58] [class-ss-url-fetcher.php:251] Fetching URL: C:\xampp\htdocs\git
+[2024-07-02 06:51:57] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress
+[2024-07-02 06:51:57] [class-ss-url-fetcher.php:251] Fetching URL: C:\xampp\htdocs\git
+[2024-07-02 06:51:58] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress
+[2024-07-02 06:51:58] [class-ss-url-fetcher.php:251] Fetching URL: C:\xampp\htdocs\git
